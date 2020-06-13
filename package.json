@@ -1,0 +1,11 @@
+{
+	"name": "tools",
+	"version": "1.0.0",
+	"description": "This repo contains several tools that I'm doing over the years",
+	"main": "index.js",
+	"author": "Rafa Guerrero",
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {}
+}

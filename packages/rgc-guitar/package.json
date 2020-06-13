@@ -1,0 +1,16 @@
+{
+  "name": "@rgc/guitar",
+  "version": "1.0.0",
+  "description": "This tool will be used to interact with websited for guitar",
+  "main": "index.js",
+  "author": "Rafa Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "bin": {
+    "rgc-guitar": "index.js"
+  }
+}
